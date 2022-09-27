@@ -28,6 +28,7 @@ modified: lib/uikit_auth_web/templates/user_reset_password/edit.html.heex
 modified: lib/uikit_auth_web/templates/user_reset_password/new.html.heex
 modified: lib/uikit_auth_web/templates/user_session/new.html.heex
 modified: lib/uikit_auth_web/templates/user_settings/edit.html.heex
+modified: assets/js/app.js
 added:    assets/css/uikit.min.css
 added:    assets/vendor/uikit-icons.min.js
 added:    assets/vendor/uikit.min.js
